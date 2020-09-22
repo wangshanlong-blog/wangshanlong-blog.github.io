@@ -1,0 +1,23 @@
+.code-cpp {
+    font-family: consolas;
+}
+
+.code-cpp cb {
+    /*Color_Blue(关键字)*/
+    color: #0000FF;
+}
+
+.code-cpp cb2 {
+    /*Color_Blue_2(预处理)*/
+    color: #2B91AF;
+}
+
+.code-cpp cr {
+    /*Color_Red(函数?)*/
+    color: #A31515;
+}
+
+.code-cpp cg {
+    /*Color_Green(注释)*/
+    color: #008000;
+}
