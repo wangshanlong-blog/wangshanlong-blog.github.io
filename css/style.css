@@ -1,3 +1,7 @@
 body {
-    background-image:url(https://wangshanlong-blog.github.io/pictures-bed/pictures/nice2.jpg);
+    padding: 0;
+    margin: 0;
+    background: url(https://wangshanlong-blog.github.io/pictures-bed/pictures/nice2.jpg) no-repeat;
+    width: 100vw;
+    background-size: cover;
 }
